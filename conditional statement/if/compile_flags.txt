@@ -1,0 +1,4 @@
+-IC:\Users\Manish Tomar\Documents\new\if
+-std=c++17
+-target
+
